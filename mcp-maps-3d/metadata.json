@@ -1,0 +1,6 @@
+{
+  "name": "MCP Maps 3D",
+  "description": "Build Photoreal 3D maps with natural language using a Gemini-powered Agent and MCP tool.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
