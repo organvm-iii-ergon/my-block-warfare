@@ -6,6 +6,14 @@
 
 # TurfSynth AR
 
+[![CI](https://github.com/organvm-iii-ergon/my-block-warfare/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-iii-ergon/my-block-warfare/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-iii-ergon/my-block-warfare)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-iii-ergon/my-block-warfare/blob/main/LICENSE)
+[![Organ III](https://img.shields.io/badge/Organ-III%20Ergon-F59E0B)](https://github.com/organvm-iii-ergon)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-iii-ergon/my-block-warfare)
+[![TypeScript](https://img.shields.io/badge/lang-TypeScript-informational)](https://github.com/organvm-iii-ergon/my-block-warfare)
+
+
 **A location-based augmented reality game where your real-world neighborhood procedurally generates the game around you.**
 
 TurfSynth AR merges open-world turf dynamics with creature collection and environmental synthesis. Instead of overlaying static content onto the real world the way existing location-based games do, TurfSynth extracts compact "Place Fingerprints" from camera, microphone, and sensor data, then uses those fingerprints to procedurally generate creatures, soundscapes, visuals, and mission flavor that are unique to every block. The core pitch: *what if you could take over the turf in your own neighborhood, and the world you are standing in literally builds the game around you?*
