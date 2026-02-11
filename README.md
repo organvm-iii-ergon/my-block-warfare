@@ -657,7 +657,7 @@ TurfSynth AR draws on work from adjacent organs:
 
 | Organ | Relationship |
 |-------|-------------|
-| **ORGAN-I (Theoria)** | Theoretical foundations: the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine) provides the recursive self-reference patterns that inform the fingerprint similarity calculus and the influence decay model |
+| **ORGAN-I (Theoria)** | Theoretical foundations: the [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) provides the recursive self-reference patterns that inform the fingerprint similarity calculus and the influence decay model |
 | **ORGAN-II (Poiesis)** | Creative precedents: the [metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master) project's generative art pipelines inform the Synthling visual synthesis approach |
 | **ORGAN-IV (Taxis)** | Orchestration: the [agentic-titan](https://github.com/organvm-iv-taxis/agentic-titan) agent framework may coordinate future CI/CD and deployment automation for TurfSynth |
 | **ORGAN-V (Logos)** | Public process: development decisions and design rationale will be documented as essays in the [public-process](https://github.com/organvm-v-logos/public-process) repository |
