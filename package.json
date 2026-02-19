@@ -18,7 +18,7 @@
     "db:seed": "tsx src/db/seed.ts"
   },
   "dependencies": {
-    "@fastify/cors": "^10.0.0",
+    "@fastify/cors": "^11.2.0",
     "@fastify/rate-limit": "^10.0.0",
     "@types/geojson": "^7946.0.14",
     "dotenv": "^16.4.5",
