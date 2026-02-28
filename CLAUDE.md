@@ -73,6 +73,13 @@ Key concept: Specifications are truth, code is generated output.
 - **Anti-cheat**: GPS spoof detection, movement plausibility, influence submission validation
 - **Synthlings**: Procedural creatures with attributes derived from environment scans (palette, geometry, motion, sound)
 
+## Deployments
+
+| Prototype | URL | Platform |
+|-----------|-----|----------|
+| `mcp-maps-3d` | https://turfsynth-mcp-maps.pages.dev | Cloudflare Pages |
+| `spatial-understanding` | https://turfsynth-spatial.pages.dev | Cloudflare Pages |
+
 <!-- ORGANVM:AUTO:START -->
 ## System Context (auto-generated — do not edit)
 
